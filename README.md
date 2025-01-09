@@ -47,3 +47,14 @@ components of GitHub actions
     -> machines where workflow gets executed
 
 ![img.png](images/img7.png)
+
+
+===========================
+workflow
+=============================
+
+![img.png](images/img8.png)
+![img.png](images/img9.png)
+![img.png](images/img10.png)
+![img.png](images/img11.png)
+![img.png](images/img12.png)
